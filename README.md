@@ -1,3 +1,7 @@
 # Hacktheworld
-i want to build an website that can help the world
-"""Thsi is reading"""
+This is an tutorial for all DSA notes written in c++
+
+table of contents:
+
+1. Codeforces question
+2. 
