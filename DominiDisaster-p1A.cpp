@@ -29,12 +29,6 @@ string solve(string &s, int n) {
 
 
 signed main() {
-
-#ifndef ONLINE_JUDGE
-	freopen("/home/abhishek/Desktop/Codeforces/input21.in", "r", stdin);
-	freopen("/home/abhishek/Desktop/Codeforces/output21.in", "w", stdout);
-#endif
-
 	int t;
 	cin >> t;
 
